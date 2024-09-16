@@ -1,17 +1,15 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Ryan Adlam
+description: Ryan Adlam
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Ryan Adlam
+user_description: Data Scientist with 5+ years of experience and a Master’s in Mathematics. Passionate about applying Causal Inference, Machine Learning, and Advanced Statistical techniques to solve complex problems and drive impactful decision-making.
+user_title: Data Scientist
+email: ryan-adlam@outlook.com
+github_username: ryanadlam
 
 # Google-analytics
 google-analytics:
