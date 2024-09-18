@@ -1,5 +1,6 @@
 <div id="particles-js">
   <div class="header">
+      <img src="src/img/headshot.jpg" alt="Profile Picture" class="profile-picture">
       <h1>
         <span class="site-title">{{site.username}}</span>
         <span class="site-description">{{site.user_title}}</span>
@@ -16,3 +17,16 @@
   </div>
   <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
 </div>
+
+<style>
+  .profile-picture {
+    width: 150px; /* Adjust size as necessary */
+    height: 150px;
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover;  /* Ensures the image is cropped nicely */
+    margin-bottom: 20px; /* Adds spacing between image and title */
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /* Center the image */
+  }
+</style>
